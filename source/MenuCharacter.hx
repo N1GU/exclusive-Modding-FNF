@@ -3,6 +3,7 @@ package;
 import flixel.FlxSprite;
 import flixel.graphics.frames.FlxAtlasFrames;
 
+
 class CharacterSetting
 {
 	public var x(default, null):Int;
