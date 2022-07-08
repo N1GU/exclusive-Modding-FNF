@@ -78,7 +78,7 @@ class Main extends Sprite
 		}
 
 		initialState = Caching;
-		game = new FlxGame(1720, 820, initialState, 60, 60, true, false);
+		game = new FlxGame(1280, 720, initialState, 60, 60, true, false);
 		addChild(game);
 		
 		#if !mobile
